@@ -1,11 +1,9 @@
-# PortalTFVTools
-![tfvlogo](https://github.com/Vincent392/PortalTFVTools/assets/90470156/de2dad7e-3b72-4482-b799-5972b5341af4)
+# Valve tools
 
-Tools and .exes for Portal: The Flash Version
-It also contains the .swf file in the exe\bin\ folder.
+tools for Valve things
 
 # Tools
-None Yet
+Steam .cfg for Windows XP to Windows 8.1
 
 # Others
 Portal: The Flash Version .exe
